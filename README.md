@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>dashgo</h1>
-</div>
-
-
 <div align="center" >
   <img src="godashdemo.gif">
 </div>
